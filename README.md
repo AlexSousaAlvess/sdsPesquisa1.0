@@ -26,10 +26,10 @@
    <p>Basta importar o projeto java para o eclipse e após terminar a importação altere o arquivo <strong>application.properties</strong> na opção 
    <strong>spring.profile.active</strong> para opção test</p>
    
-  <li>React no frontend</li>
+  <li>frontend</li>
   <p>Precisamos baixar as dependências do projeto então precisa dar um yarn dentro da pasta do projeto e depois um yarn start</p>
   
-  <li>React-Native no aplicativo</li>
+  <li>React-Native</li>
   <p>Precisamos baixar as dependências do projeto então precisa dar um yarn dentro da pasta do projeto e depois um yarn start</p>
   <p>Obs. Usamos expo então para rodar o app no device iremos precisar do app expo instalado</p>
 </ul>
