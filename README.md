@@ -15,6 +15,7 @@
 ![bloggif_5f66d065f04ee](https://user-images.githubusercontent.com/8229999/93694152-d7e4c800-fade-11ea-8062-dbd42d84719a.gif)
 
 <p>Aplicação FrontEnd</p>
+<p>Para acessar a aplicação web: https://sds1-alex-sousa.netlify.app/</p>
 
 ![Big-Game-Survey-Google-Chrome-2020-09-20-01-08-42](https://user-images.githubusercontent.com/8229999/93694206-50e41f80-fadf-11ea-8b6c-b38fb957e466.gif)
 
