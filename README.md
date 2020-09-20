@@ -29,7 +29,7 @@
   <li>frontend</li>
   <p>Precisamos baixar as dependências do projeto então precisa dar um yarn dentro da pasta do projeto e depois um yarn start</p>
   
-  <li>React-Native</li>
+  <li>Mobile</li>
   <p>Precisamos baixar as dependências do projeto então precisa dar um yarn dentro da pasta do projeto e depois um yarn start</p>
   <p>Obs. Usamos expo então para rodar o app no device iremos precisar do app expo instalado</p>
 </ul>
